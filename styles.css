@@ -1,0 +1,28 @@
+body{
+    background-image: url("pro1.jpg");
+    background-size:100%;
+}
+.ipbox{
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 10%;
+    left: 40%;
+    padding: 20px;
+}
+.ip{
+    padding: 25px;
+}
+.ip1{
+    width: 250px;
+    height: 35px;
+    margin: 5px;
+}
+
+.note {
+    background: rgb(177,209,212);
+    border-radius: 7px;
+    box-shadow: 0 2px 5px rgb(138, 137, 137);
+    padding: 10px;
+    width: 300px;
+    margin: 16px;
+  }
